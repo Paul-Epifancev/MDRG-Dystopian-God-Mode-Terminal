@@ -33,7 +33,7 @@
 ## 👤 Автор / Author
 
 * **Paul.Epifancev** (`#warlockforbugs`)
-* **Discord: anon.jun
+ **Discord: anon.jun
 * **Project:** My Dystopian Robot Girlfriend by Incontinent Cell
 
 ---
