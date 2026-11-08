@@ -68,7 +68,7 @@ All elements utilize the game's native Lua API (`ModUtilities`, `UiOverlay`, `gv
 ### 💊 Мгновенные усилители / Instant Boosters
 * **Neural Boosters** (`botpills.lua`): 5 stackable capsules to instantly boost sexbot attributes (Mood, Lust, Longing, Sympathy, Intelligence) by +1000.
 * **SUPER ITEM** (`scriptgodmode.lua`): Instant God Mode for the player (+1000 to all vitals and RemainingCum).
-* **Max Cum Expander** (`scriptmaxcum.lua`): One-time structural bio-tank expansion (+500 MaxCum, doubles RemainingCum).
+* **Max Cum Expander** (`scriptmaxcum.lua`): One-time structural bio-tank expansion (+63 times MaxCum).
 * **INTERNET GOD INJECTION** (`scriptrichstar.lua`): Instantly grants +$1,000,000, +1,000,000 paid subscribers, and +1,000,000 free followers.
 
 ---
