@@ -142,7 +142,7 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 
 ## 📞 Поддержка / Support
 
-* **🔗 Discord Server:** [https://discord.gg](https://discord.gg)
+* **🔗 Discord Server:** [https://discord.gg/jaUbR4gSy9]
 
 ---
 
