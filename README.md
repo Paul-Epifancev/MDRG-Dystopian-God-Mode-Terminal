@@ -14,7 +14,7 @@
 
 ---
 
-## ⚠️ IMPORTANT LICENSING WARNING / ВАЖНОЕ ПРЕДУПРЕЖДЕНИЕ О ЛИЦЕНЗИИ⚠️
+## ⚠️IMPORTANT LICENSING WARNING / ВАЖНОЕ ПРЕДУПРЕЖДЕНИЕ О ЛИЦЕНЗИИ⚠️
 
 > **This mod is and will ALWAYS be 100% FREE and OPEN SOURCE.** I do not have a Patreon, Ko-fi, or any paid subscriptions.
 > 
