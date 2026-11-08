@@ -1,4 +1,4 @@
-# 🖥️ Dystopian God Mode Terminal
+# 🖥️ MDRG Dystopian God Mode Terminal
 
 <div align="center">
 
